@@ -1,0 +1,16 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar arquivos de configuração do VS Code
+.vscode/
+
+# Ignorar arquivos de configuração do sistema operacional
+*.log
+*.pyc
+__pycache__/
+
+# Ignorar pastas do PyCharm (IDE)
+.idea/
+
+# Ignorar outros arquivos temporários
+*.swp
